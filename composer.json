@@ -1,0 +1,39 @@
+{
+  "name": "alongwy/flarum-elasticsearch",
+  "description": "elasticsearch for flarum",
+  "keywords": [
+    "flarum",
+    "elasticsearch"
+  ],
+  "type": "flarum-extension",
+  "license": "GPL-3.0",
+  "require": {
+    "flarum/core": "^1.0.2",
+    "elasticsearch/elasticsearch": "^7.6"
+  },
+  "authors": [
+    {
+      "name": "alongwy",
+      "email": "alongwyforever@outlook.com",
+      "role": "Developer"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Plugin\\ESearch\\": "src/"
+    }
+  },
+  "extra": {
+    "flarum-extension": {
+      "title": "Elasticsearch for Flarum by Alongwy",
+      "icon": {
+        "name": "fas fa-search",
+        "backgroundColor": "#1c141f",
+        "color": "#8e24aa"
+      }
+    },
+    "flagrow": {
+      "discuss": ""
+    }
+  }
+}
