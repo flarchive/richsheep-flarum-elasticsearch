@@ -2,13 +2,15 @@
 
 > **Read-only archive of released versions of richsheep/flarum-elasticsearch.** Not for installation: use [Packagist](https://packagist.org/packages/richsheep/flarum-elasticsearch) or the [upstream repository](https://github.com/Richsheep/flarum-elasticsearch).
 
-**0** versions archived · Latest: [`v0.0.3`](https://github.com/flarchive/richsheep-flarum-elasticsearch/tree/archive/v0.0.3) · License: `GPL-3.0` · Flarum: `^1.0.2`
+**3** versions archived · Latest: [`v0.0.3`](https://github.com/flarchive/richsheep-flarum-elasticsearch/tree/archive/v0.0.3) · License: `GPL-3.0` · Flarum: `^1.0.2`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v0.0.1` | 2020-04-14 | `^0.1.0-beta.12` | [Browse](https://github.com/flarchive/richsheep-flarum-elasticsearch/tree/archive/v0.0.1) |
+| `v0.0.2` | 2021-07-13 | `^1.0.2` | [Browse](https://github.com/flarchive/richsheep-flarum-elasticsearch/tree/archive/v0.0.2) |
+| `v0.0.3` | 2021-07-13 | `^1.0.2` | [Browse](https://github.com/flarchive/richsheep-flarum-elasticsearch/tree/archive/v0.0.3) |
 
 Catalog entry: [packages/richsheep-flarum-elasticsearch.json](https://github.com/flarchive/archive-index/blob/main/packages/richsheep-flarum-elasticsearch.json)
 
